@@ -11,7 +11,7 @@ header {
 }
 
 section {
-     background: rgb(209, 209, 133); 
+     background: rgb(240, 240, 101); 
     padding-bottom: 80;
     padding-top: 80px;
     display: flex;
@@ -19,6 +19,6 @@ section {
 }
 
 .chamada-texto {
-  margin-right: 20px;
+  margin-right: 5%;
 
 }
