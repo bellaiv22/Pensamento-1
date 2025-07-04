@@ -15,5 +15,5 @@ section {
     padding-bottom: 80;
     padding-top: 80px;
     display: flex;
-    
+    justify-content: center;
 }
