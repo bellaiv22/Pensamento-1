@@ -31,3 +31,8 @@ p {
 }
 img{
     height: 200px;
+}
+
+.categoria-videos{
+    dsiplay: flex;
+}
