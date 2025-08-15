@@ -10,7 +10,7 @@ header {
     color: white;
 }
 
-section {
+.chamada {
      background: rgb(240, 240, 101); 
     padding-bottom: 80;
     padding-top: 80px;
